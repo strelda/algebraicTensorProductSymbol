@@ -1,8 +1,8 @@
 # Algebraic tensor product symbol
-There was a need for algebraic tensor product symbol in LaTeX
+There was a need for algebraic tensor product symbol in LaTeX, so here it is.
 
-tenzorový součin dvou vektorových prostorů, without any regard k nějaké topologii
-semitenzorový hypersoučin na kompaktních direktních algebrách
+tensor product of two vector spaces, without any regard to topology
+semitenzor hypermultiplication on compact direct algebras
 
 ```
 \documentclass{article}
