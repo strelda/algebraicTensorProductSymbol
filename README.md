@@ -1,4 +1,4 @@
-# algebraicTensorProductSymbol
+# Algebraic tensor product symbol
 There was a need for algebraic tensor product symbol in LaTeX
 
 tenzorový součin dvou vektorových prostorů, without any regard k nějaké topologii
