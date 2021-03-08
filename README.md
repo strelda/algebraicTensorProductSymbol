@@ -17,4 +17,4 @@ $$ \atprod $$
 \end{document}
 ```
 
-![img](https://github.com/strelda/algebraicTensorProductSymbol/edit/main/alprod.png?raw=true)
+![img](https://github.com/strelda/algebraicTensorProductSymbol/blob/main/alprod.png?raw=true)
